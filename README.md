@@ -1,4 +1,4 @@
-## Hey there! I'm Nilesh, the tech enthusiast and full-stack developer behind this GitHub page. 🚀
+## Hey there! I'm Nilesh, the tech enthusiast and Full-Stack Developer behind this GitHub page. 🚀
 
 - 🎓 Completed my Bachelor's of Science in Computer Science, I apply the same academic rigor to real-world tech puzzles.
 - 🖥️ **As a seasoned developer,** I blend creativity with functionality in every project.  
@@ -34,13 +34,13 @@ Here's where you can click and see my work and projects come to life:
 - [SignToText](https://signtotext.aadesh.site) - Discover Sign Language Translator.
 - [Chat App](https://chat.aadesh.site) - Enjoy a secure chat with your friends with pin authorization and end-to-end encryption.
 
-## A Bit More About Me
+## A Bit More About Myself
 
 - 💡 I find joy in tackling complex problems with elegant solutions, whether in code or in life.
 - 🐾 Love spending my downtime with dogs.
 - 🤝 Open to collaboration and keen on building things that make a difference.
 
-## Reach Me Out At
+## Reach Out To Me At
 
 For a dash of code and a slice of life, let's connect across platforms.
 
