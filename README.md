@@ -26,14 +26,6 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 
-## My Work
-
-Here's where you can click and see my work and projects come to life:
-
-- [My Portfolio](https://mypage.aadesh.site) - Explore my professional journey and projects.
-- [SignToText](https://signtotext.aadesh.site) - Discover Sign Language Translator.
-- [Chat App](https://chat.aadesh.site) - Enjoy a secure chat with your friends with pin authorization and end-to-end encryption.
-
 ## A Bit More About Myself
 
 - 💡 I find joy in tackling complex problems with elegant solutions, whether in code or in life.
