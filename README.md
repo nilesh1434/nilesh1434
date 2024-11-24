@@ -36,6 +36,7 @@
 
 For a dash of code and a slice of life, let's connect across platforms.
 
+[![Website](https://img.shields.io/badge/-WEBSITE-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](http://thenileshjain.com)
 [![Instagram](https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nilesh_jain1434/)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilesh-jain1434/)
 [![GMail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jain.nilesh1203@gmail.com)
