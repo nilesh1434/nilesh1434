@@ -1,4 +1,4 @@
-## Hey there! I'm Nilesh, the tech enthusiast and Full-Stack Developer behind this GitHub page🚀
+## Hey there! I'm Nilesh, the tech enthusiast and Full-Stack Developer behind this GitHub page. 🚀
 
 - 🎓 Completed my Bachelor's of Science in Computer Science, I apply the same academic rigor to real-world tech puzzles.
 - 🖥️ **As a seasoned developer,** I blend creativity with functionality in every project.  
